@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [Pankaj Kumar](https://pankajkarman.github.io)👋
 
 <!--
 **pankajkarman/pankajkarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there, I'm [Pankaj Kumar](https://pankajkarman.github.io)👋
 
 <a href="http://yongyuan.name">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pankajkarman&count_private=true&show_icons=true" />
