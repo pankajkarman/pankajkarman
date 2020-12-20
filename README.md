@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://yongyuan.name">
+<a href="https://pankajkarman.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pankajkarman&count_private=true&show_icons=true" />
 </a>
-<a href="http://yongyuan.name">
+<a href="https://pankajkarman.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkarman&hide=html" />
 </a>
