@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Pankaj Kumar](https://pankajkarman.github.io)👋
+### Hi there 👋, I'm [Pankaj Kumar](https://pankajkarman.github.io)
 
 <!--
 **pankajkarman/pankajkarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
