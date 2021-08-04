@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="100">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="50"/>
       </a>
       <br>LaTeX
     </td>
