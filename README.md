@@ -1,23 +1,13 @@
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-red)](https://scholar.google.com/citations?user=Xg0YAlQAAAAJ&hl)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Pankaj-Kumar-41)
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/pankajkmr1990/)
+[![LinkedIn Badge](https://img.shields.io/twitter/follow/scientistno2?style=social)](https://twitter.com/scientistno2)
+
 ### Hi there 👋, I'm [Pankaj Kumar](https://pankajkarman.github.io)
 
-<!--
-**pankajkarman/pankajkarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://pankajkarman.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pankajkarman&count_private=true&show_icons=true" />
-</a>
-<a href="https://pankajkarman.github.io">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkarman&hide=html" />
-</a>
+- 🏢 **Research Assistant** | ATMOS Lab | IIT Kharagpur, West Bengal, India
+- 💫 **PhD Student** | IIT Kharagpur | West Bengal, India (2021-expected)
+- 🌟 **Mtech in Earth System Science and Technology** | IIT Kharagpur | West Bengal, India 
+- ⭐ **BE in Mechanical Engineering** | BIT Mesra | Ranchi, India
+- 🛰️ **Atmospheric Science | Remote Sensing | Data Science | Causality**
+- 🌎 **Google Earth Engine** enthusiast!
