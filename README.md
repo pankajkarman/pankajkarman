@@ -54,8 +54,7 @@
         <img src="https://ucarecdn.com/22a0a69b-689f-46c9-866b-57650f31fde9/" width="40"/>
       </a>
       <br>Three.js
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
