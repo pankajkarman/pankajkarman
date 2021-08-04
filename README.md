@@ -53,18 +53,44 @@
         <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" width="40"/>
       </a>
       <br>Three.js
-    </td>    
+    </td> 
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
       </a>
       <br>Python
     </td>
-    <td align="center" width="100">
+     <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" width="40"/>
+      </a>
+      <br>Fortran
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://iconape.com/wp-content/files/qn/195777/svg/matlab-seeklogo.com.svg" width="40"/>
+      </a>
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="35"/>
       </a>
       <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="35"/>
+      </a>
+      <br>MarkDown
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="35"/>
+      </a>
+      <br>Git
     </td>
   </tr>
 </table>
