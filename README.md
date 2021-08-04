@@ -11,5 +11,5 @@
 - 💫 **PhD Student** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India (2021-expected)
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ **BE in Mechanical Engineering** | [BIT Mesra](https://www.bitmesra.ac.in/) | Ranchi, India
-- 🛰️ **Atmospheric Science | Remote Sensing | Data Science | Causality**
+- 🛰️ **Atmospheric Science | Remote Sensing | Data Science | Causal Learning**
 - 🌎 **Google Earth Engine** enthusiast!
