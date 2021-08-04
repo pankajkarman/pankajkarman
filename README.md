@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://ucarecdn.com/22a0a69b-689f-46c9-866b-57650f31fde9/" width="40"/>
+        <img src="https://raw.githubusercontent.com/mrdoob/three.js/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" width="40"/>
       </a>
       <br>Three.js
     </td>    
