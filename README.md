@@ -54,6 +54,12 @@
       </a>
       <br>Three.js
     </td> 
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="35"/>
+      </a>
+      <br>Bash
+    </td> 
     </tr>
     <tr>
     <td align="center" width="96">
@@ -92,6 +98,12 @@
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="35"/>
+      </a>
+      <br>Jupyter
+    </td> 
   </tr>
 </table>
 <br>
