@@ -59,7 +59,13 @@
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
       </a>
       <br>Python
-    </td> 
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40"/>
+      </a>
+      <br>LaTeX
+    </td>
   </tr>
 </table>
 <br>
