@@ -56,7 +56,7 @@
     </td> 
     <td align="center" width="96">
       <a>
-        <img src="https://bashlogo.com/img/symbol/svg/monochrome_dark.svg" height="35"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="35"/>
       </a>
       <br>Bash
     </td> 
