@@ -138,33 +138,29 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/100px-Leaflet_logo.svg.png" height="25"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/100px-Leaflet_logo.svg.png" height="30"/>
       </a>
-      <br>Leaflet
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="45"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="60"/>
       </a>
-      <br>Scikit-Learn
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" height="35"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" height="60"/>
       </a>
-      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="35"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="25"/>
       </a>
       <br>PyTorch
     </td> 
     <td align="center" width="96">
       <a>
-        <img src="https://pyviz-dev.github.io/pyviz/assets/networkx.png" height="30"/>
+        <img src="https://pyviz-dev.github.io/pyviz/assets/networkx.png" height="50"/>
       </a>
-      <br>Networkx
     </td>
   </tr>
 </table>
