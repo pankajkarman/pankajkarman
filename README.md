@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/pankajkarman)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://raw.githubusercontent.com/pankajkarman/resume/master/resume.pdf)
 
-### Hi there 👋, I'm [Pankaj Kumar](https://pankajkarman.github.io)
+### Hi there 👋, I'm [Pankaj](https://pankajkarman.github.io)
 
 - 🏢 **Research Scholar** | [ATMOS Lab](https://www.atmoslabiitkgp.com/) | West Bengal, India
 - 💫 **PhD Student** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India (2021-expected)
