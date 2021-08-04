@@ -15,7 +15,6 @@
 - 🌎 **Google Earth Engine** enthusiast!
 
 ## 💻 Languages & Tools
-> <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
   <tr>
@@ -45,7 +44,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2017/06/d3logo.png" width="40"/>
+        <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" width="40"/>
       </a>
       <br>D3.js
     </td>
