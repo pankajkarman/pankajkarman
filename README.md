@@ -60,6 +60,12 @@
       </a>
       <br>Bash
     </td> 
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35"/>
+      </a>
+      <br>SQL
+    </td> 
     </tr>
     <tr>
     <td align="center" width="96">
@@ -104,6 +110,62 @@
       </a>
       <br>Jupyter
     </td> 
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" height="35"/>
+      </a>
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Satellite_of_GDAL.svg" width="40"/>
+      </a>
+      <br>GDAL
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://xray.readthedocs.io/en/v0.9.0/_images/dataset-diagram-logo.png" height="25"/>
+      </a>
+      <br>xarray
+    </td>
+     <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dask_logo.svg/220px-Dask_logo.svg.png" height="25"/>
+      </a>
+      <br>DASK
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/100px-Leaflet_logo.svg.png" height="25"/>
+      </a>
+      <br>Leaflet
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="45"/>
+      </a>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" height="35"/>
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="35"/>
+      </a>
+      <br>PyTorch
+    </td> 
+    <td align="center" width="96">
+      <a>
+        <img src="https://pyviz-dev.github.io/pyviz/assets/networkx.png" height="30"/>
+      </a>
+      <br>Networkx
+    </td>
   </tr>
 </table>
 <br>
