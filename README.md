@@ -56,7 +56,7 @@
     </td> 
     <td align="center" width="96">
       <a>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" height="35"/>
+        <img src="https://bashlogo.com/img/symbol/svg/monochrome_dark.svg" height="35"/>
       </a>
       <br>Bash
     </td> 
@@ -76,7 +76,7 @@
     </td>
      <td align="center" width="96">
       <a>
-        <img src="https://iconape.com/wp-content/files/qn/195777/svg/matlab-seeklogo.com.svg" width="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
       </a>
       <br>MATLAB
     </td>
