@@ -2,7 +2,6 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Pankaj-Kumar-41)
 [![Linkedin: Pankaj Kumar](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/pankajkmr1990/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/pankajkarman/resume/blob/master/resume.pdf)
-![Profile views](https://gpvc.arturio.dev/pankajkarman)
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://twitter.com/scientistno2)
 
 ### Hi there 👋, I'm [Pankaj](https://pankajkarman.github.io)
@@ -159,7 +158,7 @@
     </td> 
     <td align="center" width="96">
       <a>
-        <img src="https://pyviz-dev.github.io/pyviz/assets/networkx.png" height="50"/>
+        <img src="https://bids.berkeley.edu/sites/default/files/networkx-banner-full-4web.jpg" height="50"/>
       </a>
     </td>
   </tr>
