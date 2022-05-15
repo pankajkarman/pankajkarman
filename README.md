@@ -19,25 +19,25 @@
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+        <img src="https://logodix.com/logo/470374.jpg" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/css-3-logo-png-transparent.png" width="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="40"/>
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png" width="40"/>
       </a>
       <br>Bootstrap
     </td>
@@ -69,7 +69,7 @@
     <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+        <img src="https://pluspng.com/img-png/python-logo-png-python-logo-png-img-1000-1000-free-transparent-python-png-900x900.jpg" width="40"/>
       </a>
       <br>Python
     </td>
