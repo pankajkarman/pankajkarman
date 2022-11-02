@@ -6,8 +6,8 @@
 
 ### Hi there 👋, I'm [Pankaj](https://pankajkarman.github.io)
 
-- 🏢 **Research Scholar** | [ATMOS Lab](https://www.atmoslabiitkgp.com/) | West Bengal, India
-- 💫 **PhD** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India
+- 🏢 **Postdoctoral Researcher** | [KIT Germany](https://www.imk-tro.kit.edu/english/3487.php) | Karlsruhe, Germany
+- 💫 **PhD** | [IIT Kharagpur]([http://www.iitkgp.ac.in/](https://www.atmoslabiitkgp.com/)) | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ **BE in Mechanical Engineering** | [BIT Mesra](https://www.bitmesra.ac.in/) | Ranchi, India
 - 🛰️ **Remote Sensing | Atmospheric Science | Data Science | Causal Learning**
