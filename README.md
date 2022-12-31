@@ -10,7 +10,7 @@
 - 💫 **PhD** | [ATMOS Lab, IIT Kharagpur](https://www.atmoslabiitkgp.com/alumni) | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ **BE in Mechanical Engineering** | [BIT Mesra](https://www.bitmesra.ac.in/) | Ranchi, India
-- 🛰️ **Remote Sensing | Atmospheric Science | Data Science | Causal Learning**
+- 🛰️ **Remote Sensing | Atmospheric Science | Data Science | [Causal Learning](https://pubs.rsc.org/en/content/articlelanding/2022/EM/D1EM00383F)**
 - 🌎 **Google Earth Engine** enthusiast!
 
 ## 💻 Languages & Tools
