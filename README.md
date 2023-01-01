@@ -7,7 +7,7 @@
 ### Hi there 👋, I'm [Pankaj](https://pankajkarman.github.io)
 
 - 🏢 **Postdoctoral Researcher** | [Working Group "Aerosol and Reactive Tracer Modelling", KIT Germany](https://www.imk-tro.kit.edu/english/3487.php) | Karlsruhe, Germany
-- 💫 **PhD** | [ATMOS Lab, IIT Kharagpur](https://www.atmoslabiitkgp.com/alumni) | West Bengal, India
+- 💫 **PhD** | [ATMOS Lab, IIT Kharagpur](https://www.atmoslabiitkgp.com/phd-students/pankaj-kumar) | West Bengal, India
 - 🌟 **MTech in Earth System Science and Technology** | [IIT Kharagpur](http://www.iitkgp.ac.in/) | West Bengal, India 
 - ⭐ **BE in Mechanical Engineering** | [BIT Mesra](https://www.bitmesra.ac.in/) | Ranchi, India
 - 🛰️ **Remote Sensing | Atmospheric Science | Data Science | [Causal Learning](https://pubs.rsc.org/en/content/articlelanding/2022/EM/D1EM00383F)**
